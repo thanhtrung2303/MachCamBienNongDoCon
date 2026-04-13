@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Added Component: Designator=LED2(LED-3MM-RED)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R4-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=Sheet_MachMQ3 Member=Component LED2 LED
