@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=SW1 Old Footprint=SW1-DIP New Footprint=SW_2ARS_TH
+Change Component Comment : Designator=SW1 Old Comment=SW New Comment=SWITCH 10A-2PIN
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW1-DIP"; UniqueID = "\VTZCYTFA" ("\VTZCYTFA")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "471005264153"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "471005264153"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet_MachMQ3 Member=Component L1 100uH 3A
