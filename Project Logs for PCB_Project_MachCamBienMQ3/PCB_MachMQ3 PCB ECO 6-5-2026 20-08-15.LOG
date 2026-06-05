@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=5V Pin=LCD1-2
+Removed Pin From Net: NetName=5V Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Member From Class: ClassName=Sheet_MachMQ3 Member=LCD1
+Removed Member From Class: ClassName=Sheet_MachMQ3 Member=VR1
+Added Component: Designator=JP3(JP 1x4 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP3-1
+Added Pin To Net: NetName=5V Pin=JP3-2
+Change Net Name : Old Net Name=PA0 New Net Name=ADC0
+Added Pin To Net: NetName=SCL Pin=IC1-22
+Added Pin To Net: NetName=SCL Pin=JP3-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-23
+Added Pin To Net: NetName=SDA Pin=JP3-3
+Added Net: Name=SDA
+Added Member To Class: ClassName=Sheet_MachMQ3 Member=Component JP3 JP 1x4 2.54
